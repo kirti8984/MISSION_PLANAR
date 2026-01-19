@@ -3,3 +3,7 @@ scikit-learn
 pandas
 numpy
 joblib
+crewai
+gradio
+openai
+
