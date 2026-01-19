@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1HRQhvA9d5wOeUHDrUIgND2aK3P8cp7Es
 """
 
-!pip install -U crewai gradio openai
 
 import os
 
